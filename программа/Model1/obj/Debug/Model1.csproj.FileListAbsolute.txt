@@ -1,0 +1,21 @@
+D:\учеба\курсач\Model1\bin\Debug\Model1.exe.config
+D:\учеба\курсач\Model1\bin\Debug\Model1.exe
+D:\учеба\курсач\Model1\bin\Debug\Model1.pdb
+D:\учеба\курсач\Model1\obj\Debug\Model1.csproj.AssemblyReference.cache
+D:\учеба\курсач\Model1\obj\Debug\Model1.Form1.resources
+D:\учеба\курсач\Model1\obj\Debug\Model1.Properties.Resources.resources
+D:\учеба\курсач\Model1\obj\Debug\Model1.csproj.GenerateResource.cache
+D:\учеба\курсач\Model1\obj\Debug\Model1.csproj.CoreCompileInputs.cache
+D:\учеба\курсач\Model1\obj\Debug\Model1.exe
+D:\учеба\курсач\Model1\obj\Debug\Model1.pdb
+C:\учеба\учеба\курсач\7 семестр\программа\Model1\bin\Debug\Model1.exe.config
+C:\учеба\учеба\курсач\7 семестр\программа\Model1\bin\Debug\Model1.exe
+C:\учеба\учеба\курсач\7 семестр\программа\Model1\bin\Debug\Model1.pdb
+C:\учеба\учеба\курсач\7 семестр\программа\Model1\obj\Debug\Model1.csproj.AssemblyReference.cache
+C:\учеба\учеба\курсач\7 семестр\программа\Model1\obj\Debug\Model1.Form1.resources
+C:\учеба\учеба\курсач\7 семестр\программа\Model1\obj\Debug\Model1.Properties.Resources.resources
+C:\учеба\учеба\курсач\7 семестр\программа\Model1\obj\Debug\Model1.csproj.GenerateResource.cache
+C:\учеба\учеба\курсач\7 семестр\программа\Model1\obj\Debug\Model1.csproj.CoreCompileInputs.cache
+C:\учеба\учеба\курсач\7 семестр\программа\Model1\obj\Debug\Model1.exe
+C:\учеба\учеба\курсач\7 семестр\программа\Model1\obj\Debug\Model1.pdb
+C:\учеба\учеба\курсач\7 семестр\программа\Model1\obj\Debug\Model1.Form2.resources
